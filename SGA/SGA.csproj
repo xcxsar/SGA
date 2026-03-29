@@ -46,17 +46,11 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Form1.cs">
+    <Compile Include="InicioSesionView.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Include="Form1.Designer.cs">
-      <DependentUpon>Form1.cs</DependentUpon>
-    </Compile>
-    <Compile Include="InicioSesion.cs">
-      <SubType>Form</SubType>
-    </Compile>
-    <Compile Include="InicioSesion.Designer.cs">
-      <DependentUpon>InicioSesion.cs</DependentUpon>
+    <Compile Include="InicioSesionView.Designer.cs">
+      <DependentUpon>InicioSesionView.cs</DependentUpon>
     </Compile>
     <Compile Include="InicioView.cs">
       <SubType>Form</SubType>
@@ -66,8 +60,8 @@
     </Compile>
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
-    <EmbeddedResource Include="Form1.resx">
-      <DependentUpon>Form1.cs</DependentUpon>
+    <EmbeddedResource Include="InicioSesionView.resx">
+      <DependentUpon>InicioSesionView.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="InicioView.resx">
       <DependentUpon>InicioView.cs</DependentUpon>
