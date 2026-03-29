@@ -1,6 +1,6 @@
 ﻿namespace SGA
 {
-    partial class Form2
+    partial class Asistenciass
     {
         /// <summary>
         /// Required designer variable.
@@ -46,7 +46,7 @@
             this.panel3.Controls.Add(this.dateTimePicker1);
             this.panel3.Controls.Add(this.label2);
             this.panel3.Controls.Add(this.dataGridView1);
-            this.panel3.Location = new System.Drawing.Point(111, 12);
+            this.panel3.Location = new System.Drawing.Point(131, 12);
             this.panel3.Name = "panel3";
             this.panel3.Size = new System.Drawing.Size(749, 608);
             this.panel3.TabIndex = 3;
@@ -113,14 +113,14 @@
             this.Column2.Resizable = System.Windows.Forms.DataGridViewTriState.True;
             this.Column2.SortMode = System.Windows.Forms.DataGridViewColumnSortMode.Automatic;
             // 
-            // Form2
+            // Asistenciass
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 16F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.BackColor = System.Drawing.SystemColors.ControlLight;
             this.ClientSize = new System.Drawing.Size(988, 632);
             this.Controls.Add(this.panel3);
-            this.Name = "Form2";
+            this.Name = "Asistenciass";
             this.Text = "Form2";
             this.panel3.ResumeLayout(false);
             this.panel3.PerformLayout();
