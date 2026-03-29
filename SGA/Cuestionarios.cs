@@ -10,11 +10,16 @@ using System.Windows.Forms;
 
 namespace SGA
 {
-    public partial class Examenes : Form
+    public partial class Cuestionarios : Form
     {
-        public Examenes()
+        public Cuestionarios()
         {
             InitializeComponent();
+        }
+
+        private void button3_Click(object sender, EventArgs e)
+        {
+
         }
     }
 }
