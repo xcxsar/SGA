@@ -1,6 +1,6 @@
 ﻿namespace SGA
 {
-    partial class InicioSesion
+    partial class InicioSesion  
     {
         /// <summary>
         /// Variable del diseñador necesaria.
